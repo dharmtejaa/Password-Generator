@@ -12,7 +12,7 @@ This repository contains the implementation of Task 3 for the Slash Mark Company
 
 ## **Requirements**
 
-:> Python 3.x
+- Python 3.x
 
 ## **Installation of Required Modules**
 
