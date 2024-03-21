@@ -1,8 +1,6 @@
 # **Password Generator**
 
-Task 3: Password Generator Implementation (Slash Mark Internship)
-
-This repository contains the implementation of Task 3 for the Slash Mark Company internship. The task involved creating a password generator using Python. The password generator generates strong and secure passwords based on user-defined criteria.
+The Password Generator GUI is a Python program designed to generate strong and secure passwords with ease. This graphical application allows users to customize password lengths and composition, providing them with highly secure passwords for various purposes.
 
 ## **Features**
 
