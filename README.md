@@ -42,4 +42,4 @@ To run the Password Generator:
 
 ## **Support**
 
-For any questions, suggestions, or issues, please contact **Kashapogu Dharmateja** at **dharmateja238@gmail.com**.
+For any questions, suggestions, or issues, please contact at **dharmateja238@gmail.com**.
