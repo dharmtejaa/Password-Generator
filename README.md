@@ -18,7 +18,7 @@ No additional modules are required to run this program.
 
 ## **Usage**
 
-1. Run the Python file (`password_generator.py`).
+1. Run the Python file (`PasswordGenerator.py`).
 2. Enter the number of passwords you want to generate.
 3. Enter the desired lengths of the passwords (minimum length is 3, separated by commas).
 4. Click the "Generate Passwords" button to generate passwords.
@@ -29,10 +29,10 @@ No additional modules are required to run this program.
 To run the Password Generator:
 
 1. Ensure you have Python installed on your system.
-2. Copy the provided code into a Python file (e.g., `password_generator.py`).
+2. Copy the provided code into a Python file (e.g., `PasswordGenerator.py`).
 3. Run the Python file using the following command:
 
-:> python password_generator.py
+:> python PasswordGenerator.py
 
 
 ### **Notes**
@@ -42,4 +42,4 @@ To run the Password Generator:
 
 ## **Support**
 
-For any questions, suggestions, or issues, please contact **kasa pogu dharma teja** at **dharmateja238@gmail.com**.
+For any questions, suggestions, or issues, please contact **Kashapogu Dharmateja** at **dharmateja238@gmail.com**.
